@@ -38,4 +38,4 @@ honishi personal development portfolio.
   * tumblr gear
     * <a href="http://tumblrgear.tumblr.com/" target="_blank">website</a>, <a href="http://www.appbank.net/2009/06/08/iphone-application/29817.php" target="_blank">appbank</a>
   * Tumblrowl
-    * <a href="http://s3.amazonaws.com/tumblrowl/index.html" target="_blank">website</a>
+    * <a href="http://s3.amazonaws.com/tumblrowl/index.html" target="_blank">website</a>, <a href="http://tumblrowl.tumblr.com/" target="_blank">tumblr</a>
